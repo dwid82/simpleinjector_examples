@@ -1,1 +1,1 @@
-# simpleinjector_handson
+# Simple Injector IoC Container Examples
